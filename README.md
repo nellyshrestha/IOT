@@ -1,2 +1,3 @@
 # IOT
-basic IOT project
+basic IOT project for beginner
+
